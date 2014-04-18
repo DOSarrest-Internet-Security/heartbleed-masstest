@@ -1,4 +1,4 @@
-![Logo](http://www.dosarrest.com/templates/corporative/images/logo.gif "Logo")
+![Logo](http://www.dosarrest.com/wp-content/uploads/2013/11/logo.gif.png?b99cf4 "Logo")
 
 heartbleed-masstest
 ===================
